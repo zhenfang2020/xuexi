@@ -1,0 +1,14 @@
+{
+  "coursel":[
+    {"img":"../../static/coursel/coursel-1.jpg"},
+    {"img":"../../static/coursel/coursel-2.jpg"},
+    {"img":"../../static/coursel/coursel-3.jpg"},
+    {"img":"../../static/coursel/coursel-4.jpg"}
+  ],
+	"loucen":[
+		{"src":"../../static/icon/kecheng.png","title":"课程"},
+		{"src":"../../static/icon/xiti.png","title":"习题"},
+		{"src":"../../static/icon/kaoping.png","title":"考评"},
+		{"src":"../../static/icon/zixun.png","title":"资讯"}
+	]
+}
